@@ -1,6 +1,6 @@
 title: A P Rishikeshvar
 description: Personal Website 
-theme: minima
+theme: jekyll-theme-chirpy
 baseurl: ""
 url: "https://Rishi-14052005.github.io"
 plugins:
