@@ -20,3 +20,5 @@ I hope to research the human brain to understand mental heatlh, trauma, neurolog
 # More about me 
 Reading, writing and the gym is my definition of self care and good health. In April 2025 I started to learn Hindustani Classical Music. 
 I would like to hear myself sing decently well. I write a weekly newsletter called 'Life 101'. 
+
+My interests are spread across research, writing and entrepreneurship. I hope to bring them all to some interesection.
