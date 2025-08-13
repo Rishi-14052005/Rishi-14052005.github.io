@@ -1,0 +1,10 @@
+title: A P Rishikeshvar
+description: Personal Website 
+theme: minima
+baseurl: ""
+url: "https://Rishi-14052005.github.io"
+author: Your Name
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
