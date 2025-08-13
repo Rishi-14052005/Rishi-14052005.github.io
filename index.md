@@ -1,4 +1,3 @@
-# About 
 I am Rishi, a pre-final year student at BITS Hyderabad pursuing a dual degree in Mechanical Engineering(B.E) and Biological Sciences (MSc). 
 You can find about my past and on-going projects on this website. 
 My blogs are mostly personal opinions, but you may also find some research centric blogs about the human brain. 
