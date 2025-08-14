@@ -4,7 +4,7 @@ This site showcases my blogs, projects, and research interests
 # Sections  
 - About Me
 - Blog Archive
-- Email newsletter
+- Email newsletter 
 
 “You can’t ever reach perfection, but you can believe in an asymptote toward which you are ceaselessly striving.” - Paul Kalanithi 
 
